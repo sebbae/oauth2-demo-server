@@ -1,0 +1,14 @@
+[[dependencies]]
+  name = "github.com/gorilla/mux"
+
+[[dependencies]]
+  name = "github.com/gorilla/sessions"
+
+[[dependencies]]
+  name = "github.com/codegangsta/negroni"
+
+[[dependencies]]
+  name = "github.com/x/oauth2"
+
+[[dependencies]]
+  name = "github.com/google/go-github"
